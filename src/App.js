@@ -1,6 +1,6 @@
 import React from 'react'
 //import Header from './Components/Header/Header'
-import Home from './Components/Home/Home'
+//import Home from './Components/Home/Home'
 import Layouts from './Layouts/Layouts'
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
    <>
    
    <Layouts/>
-   <Home/>
+   
    </>
   )
 }
