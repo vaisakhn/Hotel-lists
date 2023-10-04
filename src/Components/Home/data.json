@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "caption":"Ramada London North M1",
+        "people":"3 Room ",
+        "milage":"4 Bed",
+        "engine":"1 Bath",
+        "type":"720 sft",
+        "rent":"$4200/month",
+        "img":"https://thepointsguy.global.ssl.fastly.net/us/originals/2023/02/Best-Hotels-London_Claridges_FB.jpg"
+    },
+       {
+            "id":2,
+            "caption":"DoubleTree by Hilton London ",
+            "people":"3 Room ",
+            "milage":"4 Bed",
+            "engine":"1 Bath",
+            "type":"720 sft",
+            "rent":"$4200/month",
+            "img":"https://lh3.googleusercontent.com/p/AF1QipPu_a5CeReueRcyqSDrmikJxjgO9OeN99jOjrWg=w287-h192-n-k-rw-no-v1"
+        }, 
+        {
+            "id":3,
+            "caption":"London Marriott Hotel Maida Vale",
+            "people":"3 Room ",
+            "milage":"4 Bed",
+            "engine":"1 Bath",
+            "type":"720 sft",
+            "rent":"$4200/month",
+            "img":"https://lh3.googleusercontent.com/p/AF1QipMepWgTww7L7umDjCzqwdwuhmF-XsioQenn-N5p=w287-h192-n-k-rw-no-v1"
+        },
+        {
+            "id":4,
+            "caption":"Ramada London North M1",
+            "people":"3 Room ",
+            "milage":"4 Bed",
+            "engine":"1 Bath",
+            "type":"720 sft",
+            "rent":"$4200/month",
+            "img":"https://lh3.googleusercontent.com/p/AF1QipMSTYEXi_LWDRYE7Jy4pDqKKrTRps_8a9_eGapp=w287-h192-n-k-rw-no-v1"
+        },
+        {
+            "id":5,
+            "caption":"Britannia International Hotel",
+            "people":"3 Room ",
+            "milage":"4 Bed",
+            "engine":"1 Bath",
+            "type":"720 sft",
+            "rent":"$4200/month",
+            "img":"https://lh3.googleusercontent.com/p/AF1QipMAWxu6yOJ6xVWsS_UKKCQq7lcUYOqK0MKTmeat=w287-h192-n-k-rw-no-v1"
+        }, 
+        {
+            "id":6,
+            "caption":"DoubleTree by Hilton London",
+            "people":"3 Room ",
+            "milage":"4 Bed",
+            "engine":"1 Bath",
+            "type":"720 sft",
+            "rent":"$4200/month",
+            "img":"https://thepointsguy.global.ssl.fastly.net/us/originals/2023/02/Best-Hotels-London_Claridges_FB.jpg"
+        }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "caption":"Ramada London North M1",
+        "people":"3 Room ",
+        "milage":"4 Bed",
+        "engine":"1 Bath",
+        "type":"720 sft",
+        "rent":"$4200/month",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMVLv0YQeEVlJOuFuZsG0EHlWw5t8UVww8A&usqp=CAU"
+    },
+       {
+            "id":2,
+            "caption":"DoubleTree by Hilton London ",
+            "people":"3 Room ",
+            "milage":"4 Bed",
+            "engine":"1 Bath",
+            "type":"720 sft",
+            "rent":"$4200/month",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvFduT8Aavj3P1xJE1vju3GO7YoLkLQGRf_g&usqp=CAU"
+        }, 
+        {
+            "id":3,
+            "caption":"London Marriott Hotel Maida Vale",
+            "people":"3 Room ",
+            "milage":"4 Bed",
+            "engine":"1 Bath",
+            "type":"720 sft",
+            "rent":"$4200/month",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo-nn3_x_34CSP3nQ17wT4DLed49aGR2giTQ&usqp=CAU"
+        },
+        {
+            "id":4,
+            "caption":"Ramada London North M1",
+            "people":"3 Room ",
+            "milage":"4 Bed",
+            "engine":"1 Bath",
+            "type":"720 sft",
+            "rent":"$4200/month",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7q-160JziyBB21--_Jhd07M1r1E79htq4pA&usqp=CAU"
+        },
+        {
+            "id":5,
+            "caption":"Britannia International Hotel",
+            "people":"3 Room ",
+            "milage":"4 Bed",
+            "engine":"1 Bath",
+            "type":"720 sft",
+            "rent":"$4200/month",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-K28gK0fc2VKQ8aQdx545enZVGFWWDEpIZA&usqp=CAU"
+        }, 
+        {
+            "id":6,
+            "caption":"DoubleTree by Hilton London",
+            "people":"3 Room ",
+            "milage":"4 Bed",
+            "engine":"1 Bath",
+            "type":"720 sft",
+            "rent":"$4200/month",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXTFAJoLaAfp71W699LXj9Atp0vzrCTN5rcw&usqp=CAU"
+        }
+]
